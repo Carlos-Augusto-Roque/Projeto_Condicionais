@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\bin\Debug\netcoreapp3.1\Projeto_Condicionais.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\bin\Debug\netcoreapp3.1\Projeto_Condicionais.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\bin\Debug\netcoreapp3.1\Projeto_Condicionais.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\bin\Debug\netcoreapp3.1\Projeto_Condicionais.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\bin\Debug\netcoreapp3.1\Projeto_Condicionais.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\bin\Debug\netcoreapp3.1\Projeto_Condicionais.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\obj\Debug\netcoreapp3.1\Projeto_Condicionais.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\obj\Debug\netcoreapp3.1\Projeto_Condicionais.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\obj\Debug\netcoreapp3.1\Projeto_Condicionais.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\obj\Debug\netcoreapp3.1\Projeto_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\obj\Debug\netcoreapp3.1\Projeto_Condicionais.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\obj\Debug\netcoreapp3.1\Projeto_Condicionais.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Projeto_Condicionais\obj\Debug\netcoreapp3.1\Projeto_Condicionais.genruntimeconfig.cache
